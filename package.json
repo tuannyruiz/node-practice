@@ -1,0 +1,23 @@
+{
+  "name": "casa-do-codigo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuannyruiz/node-practice.git"
+  },
+  "author": "Tuanny Ruiz <tuannyruiz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuannyruiz/node-practice/issues"
+  },
+  "homepage": "https://github.com/tuannyruiz/node-practice#readme",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  }
+}
