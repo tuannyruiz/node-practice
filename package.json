@@ -18,6 +18,7 @@
   "homepage": "https://github.com/tuannyruiz/node-practice#readme",
   "dependencies": {
     "ejs": "^2.5.9",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
   }
 }
